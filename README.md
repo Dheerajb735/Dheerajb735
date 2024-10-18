@@ -1,6 +1,8 @@
 # 💫 About Me:
-"My name is Dheeraj Banda and I recently graduated from Oxford collage (BCA) Hubballi with several qualifications that are an excellent match for the position. I am diligent, self-disciplined, committed to lifelong learning and I genuinely want to build a successful career in this industry. Outside of work I keep myself fit and active so my concentration and energy levels are always high my strengths include my flexibility, my fast face of work which means I will get more work done by the average employee and my adaptability to change I am the type of person who will be a positive role model foryour company and I will support the organization in any changes it wants to make while working hard to repay the trust you will have shown in hiring me."
-
+👋 Hi, I’m Dheeraj Banda
+👀 I’m interested in learning programming
+🌱 I’m currently learning Full Stack Java development
+📫 How to reach me ... dheerajdeeru000@gmail.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Deeraj D) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deeru_2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dheeraj B) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mrdeeru7055) 
